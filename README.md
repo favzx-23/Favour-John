@@ -1,7 +1,7 @@
 # Favour John – Design Portfolio
 
 Full-screen, scrollable graphic design portfolio for Favour John (Favz Graphix):
-hero with scrolling work strips → about → services → nine selected projects → "More work"
+hero with scrolling work strips → about → services → eleven selected projects → "More work"
 gallery (filterable, 64 designs) → toolkit → process → contact. Light and dark themes follow the
 visitor's system setting.
 
